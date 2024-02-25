@@ -85,7 +85,7 @@ td {
 <tr>
   <td style="text-align:center">6</td>
   <td style="text-align:center">24.05.2023</td>
-  <td style="text-align:center">9am - 12pm<br>1pm - 4pm</td>
+  <td style="text-align:center">9am - 12pm<br>1pm - 6pm</td>
   <td>Student presentations; meet-the-expert event</td>
 </tr>
 </table>
