@@ -50,7 +50,7 @@ td {
   <td style="text-align:center">1</td>
   <td style="text-align:center">01.03.2023</td>
   <td style="text-align:center">9am - 12pm<br>1pm - 4pm</td>
-  <td>Introduction to data science and the PPDAC cycle; Getting Started: GitHub, R Markdown; form groups</td>
+  <td><a href="https://www.dropbox.com/scl/fi/yewy1leejtt8hrk7xw10q/dataanalyics_FS2024.pdf?rlkey=33ezmdgrrkel13bjxlr9h30rx&dl=1">Introduction to data science and the PPDAC cycle</a>; Getting Started: GitHub, R Markdown; form groups</td>
 </tr>
 <tr>
   <td style="text-align:center">2</td>
