@@ -56,7 +56,7 @@ td {
   <td style="text-align:center">2</td>
   <td style="text-align:center">02.03.2023</td>
   <td style="text-align:center">9am - 12pm<br>1pm - 4pm</td>
-  <td>Student project pitches; Data wrangling & visualization</td>
+  <td><a href="https://therbootcamp.github.io/DataViz_Unibas2023Nov/">Data wrangling & visualization</a>; Student project pitches</td>
 </tr>
 <tr>
   <td style="text-align:center">3</td>
